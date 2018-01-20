@@ -7,4 +7,4 @@ Took an already working microphone level meter code sample from Stack Overflow a
 https://stackoverflow.com/questions/26574326/how-to-calculate-the-level-amplitude-db-of-audio-signal-in-java/26576548
 
 
-Plans for the future: Make a nice UI for this little app and add the functionality to change the key as will.
+Plans for the future: Actually understand how TargetDataLine works and how to calculate volume. Then make a nice UI for this little app and add the functionality to change the key as will.
